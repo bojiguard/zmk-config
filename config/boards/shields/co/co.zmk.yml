@@ -1,10 +1,10 @@
 file_format: "1"
 id: co
-name: xer sex
+name: co
 type: shield
-url: https://github.com/xxxx/rrrr/
+url: https://github.com/bojiguard/rrrr/
 requires: [pro_micro]
-exposes: [i2c_oled]
+exposes: 
 features:
   - keys
 siblings:
