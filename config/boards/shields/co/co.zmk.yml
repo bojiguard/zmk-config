@@ -1,6 +1,6 @@
 file_format: "1"
 id: co
-name: xer sex
+name: co
 type: shield
 url: https://github.com/xxxx/rrrr/
 requires: [pro_micro]
