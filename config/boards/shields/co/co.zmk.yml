@@ -8,5 +8,5 @@ exposes:
 features:
   - keys
 siblings:
-  - co_left
-  - co_right
+  - corne_left
+  - corne_right
