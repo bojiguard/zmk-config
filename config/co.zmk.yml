@@ -1,0 +1,12 @@
+file_format: "1"
+id: co
+name: Co
+type: shield
+url: https://github.com/xxxx/rrrr/
+requires: [pro_micro]
+exposes: 
+features:
+  - keys
+siblings:
+  - co_left
+  - co_right
