@@ -1,14 +1,12 @@
 file_format: "1"
 id: co
-name: Co
+name: xer sex
 type: shield
-url: https://github.com/foostan/crkbd/
+url: https://github.com/xxxx/rrrr/
 requires: [pro_micro]
 exposes: [i2c_oled]
 features:
   - keys
-  - display
-  - underglow
 siblings:
   - co_left
   - co_right
